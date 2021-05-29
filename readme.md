@@ -1,3 +1,3 @@
 # C algorithms
 
-This project is for training algorithms in pure c. Each folder contains an implementation of the certain algorithm.
+This project is for learning algorithms in the C language. Each folder contains an implementation of the certain algorithm.
